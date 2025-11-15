@@ -35,4 +35,4 @@ Here is the blog I followed: [FreeCodeCamp Article](https://www.freecodecamp.org
 3. Start the development server
    ```bash
    npm run dev
-gg
+

@@ -9,7 +9,7 @@ It demonstrates how different endpoints are organized through routers and how da
 The project also explains how a database connects with the frontend through API endpoints.  
 This project idea was explained by the author Jean-Marc Möckel in a FreeCodeCamp blog.
 
-Here is the blog I followed: [FreeCodeCamp Article]([https://www.freecodecamp.org/](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/))
+Here is the blog I followed: [FreeCodeCamp Article](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/)
 
 ---
 
@@ -35,3 +35,4 @@ Here is the blog I followed: [FreeCodeCamp Article]([https://www.freecodecamp.or
 3. Start the development server
    ```bash
    npm run dev
+gg
